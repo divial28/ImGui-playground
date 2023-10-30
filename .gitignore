@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build
+third_party
+!/third_party/glad
+!/third_party/bootstrap.json
+!/third_party/bootstrap.py
+
+.cache
